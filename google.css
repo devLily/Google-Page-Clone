@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap');
+
+.status-bar {
+    float: right;
+    justify-content: space-between;
+}
+
+.m-logo {
+    display: block;
+    width: 500px;
+    height: 300px;
+    margin: 0px auto;
+}
+
+.status-bar__mail,
+.status-bar__image,
+.status-bar__badge {
+    cursor: pointer;
+}
+
+.status-bar__column i {
+    cursor: pointer;
+}
+
+.google__write {
+    position: fixed;
+
+}
